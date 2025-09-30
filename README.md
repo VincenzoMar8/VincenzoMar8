@@ -41,7 +41,7 @@
 <br/><br/>
 
 <div style="display: flex;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alchemiststeel&show_icons=true&theme=dark&title_color=640096&text_color=410061&cache_seconds=1800&locale=it" alt="alchemiststeel" width="42.8%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vincenzomar8&show_icons=true&theme=dark&title_color=640096&text_color=410061&cache_seconds=1800&locale=it" alt="vincenzomar8" width="42.8%" />
   &nbsp;
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alchemiststeel&theme=dark" alt="alchemiststeel" width="45%" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vincenzomar8&theme=dark" alt="vincenzomar8" width="45%" />
 </div>
